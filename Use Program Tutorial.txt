@@ -1,0 +1,35 @@
+Open terminal : 
+
+Make sure that python is installed on your computer.
+
+Copy paste this commands one by one : 
+
+MACOS/LINUX USER : 
+----------------------------
+
+python3 -m venv env
+
+source env/bin/activate
+
+pip install replicate
+
+pip install python-dotenv
+
+----------------------------
+WINDOWS USER : 
+----------------------------
+
+python3 -m venv env
+
+env\Scripts\activate
+
+pip install replicate
+
+pip install python-dotenv
+
+-----------------------------
+Copy paste your API Keys at the right place and launch the program, make sure that your whole screen is visible when launching the program to make sure our AI System can interpret the screen.
+
+LAUNCH THE PROGRAM : 
+
+Launch the file: start.py OR copy paste in the terminal : 'python start.py'
